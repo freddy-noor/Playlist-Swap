@@ -16,6 +16,7 @@ class Playlist {
     int a = desertIslandPlaylist.indexOf("Hello - Adele");
     int b = desertIslandPlaylist.indexOf("Hallelujah - Leonard Cohen");
     //System.out.println(a);
+    //System.out.println(b);
 
     String tempA = "Hello - Adele";
     desertIslandPlaylist.set(a, "Hallelujah - Leonard Cohen");
