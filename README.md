@@ -1,2 +1,2 @@
 # Playlist-Swap
-## Java Pratice
+## Java Practice
